@@ -183,3 +183,22 @@ This project is for informational and educational purposes only. The user must n
 
 There is not any warranty that the information and materials contained in this project are accurate.
 
+## Tags
+- bot 
+- crypto
+- telegram 
+- telegram-bot
+- trading-bot 
+- cryptocurrency 
+- technical-analysis 
+- telegram-bot-api 
+- algorithmic-trading 
+- margin-trading 
+- binance 
+- binance-api 
+- cryptotrading 
+- technical-analysis-indicators 
+- crypto-trading-bot 
+- binance-trading-bot 
+- crypto-trading-strategies 
+- crypto-trading-algorithms
